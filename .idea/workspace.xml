@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebe11869-a275-413a-9a53-493a64e7c07f" name="变更" comment="第一次提交后端代码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="luo" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2A0jXTLY9l753lFVspZFptZbi8a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java项目\论坛\src\main\java\com\example\entity" />
+      <recent name="E:\java项目\论坛\src\main\resources\templates" />
+      <recent name="E:\java项目\论坛\src\main\resources\static" />
+      <recent name="E:\java项目\论坛\src\main\java\com\example\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="ApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="论坛" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.testApplicationContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="论坛" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ApplicationTests" />
+      <option name="METHOD_NAME" value="testApplicationContext" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="论坛" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="论坛" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="论坛" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ApplicationTests" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.ApplicationTests.testApplicationContext" />
+        <item itemvalue="JUnit.ApplicationTests.test" />
+        <item itemvalue="Spring Boot.ApplicationTests" />
+        <item itemvalue="Spring Boot.ApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="应用程序级" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ebe11869-a275-413a-9a53-493a64e7c07f" name="变更" comment="" />
+      <created>1654153438442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654153438442</updated>
+      <workItem from="1654153440040" duration="57000" />
+      <workItem from="1654169032184" duration="55000" />
+      <workItem from="1654169642474" duration="26000" />
+      <workItem from="1662301135107" duration="64000" />
+      <workItem from="1662962484006" duration="5550000" />
+      <workItem from="1662977311025" duration="975000" />
+      <workItem from="1662983025215" duration="811000" />
+      <workItem from="1662983938851" duration="1668000" />
+      <workItem from="1663034686417" duration="1222000" />
+      <workItem from="1663036079369" duration="1788000" />
+      <workItem from="1663153896674" duration="5000" />
+      <workItem from="1663246270559" duration="14000" />
+      <workItem from="1663314482726" duration="3041000" />
+      <workItem from="1663751552069" duration="1906000" />
+      <workItem from="1663753524348" duration="36000" />
+      <workItem from="1663753580976" duration="658000" />
+      <workItem from="1663894859249" duration="15000" />
+      <workItem from="1664096803577" duration="93000" />
+      <workItem from="1664097282843" duration="4346000" />
+      <workItem from="1664205395433" duration="7436000" />
+      <workItem from="1664247880771" duration="9455000" />
+      <workItem from="1664269447757" duration="622000" />
+      <workItem from="1664274628563" duration="594000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交后端代码">
+      <created>1663316686582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663316686582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交后端代码">
+      <created>1663317105654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663317105654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="luo" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交后端代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交后端代码" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="74" key="#Application" timestamp="1663752088187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="74" key="#Application/0.0.1536.824@0.0.1536.824" timestamp="1663752088187" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1664100847167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1664100847167" />
+    <state x="327" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1664233880400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="327" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1664233880400" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1663752086304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1663752086304" />
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1663752984746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1663752984746" />
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1663752029718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1663752029718" />
+    <state x="570" y="167" key="FileChooserDialogImpl" timestamp="1664275246931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1664275246931" />
+    <state x="637" y="303" width="272" height="270" key="Github.ShareDialog" timestamp="1664275142316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="303" width="272" height="270" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1664275142316" />
+    <state width="1024" height="380" key="GridCell.Tab.0.bottom" timestamp="1664268993351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1664268993351" />
+    <state width="1024" height="380" key="GridCell.Tab.0.center" timestamp="1664268993351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1664268993351" />
+    <state width="1024" height="380" key="GridCell.Tab.0.left" timestamp="1664268993350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1664268993350" />
+    <state width="1024" height="380" key="GridCell.Tab.0.right" timestamp="1664268993351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1664268993351" />
+    <state width="1024" height="380" key="GridCell.Tab.1.bottom" timestamp="1664268993352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1664268993352" />
+    <state width="1024" height="380" key="GridCell.Tab.1.center" timestamp="1664268993351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1664268993351" />
+    <state width="1024" height="380" key="GridCell.Tab.1.left" timestamp="1664268993351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1664268993351" />
+    <state width="1024" height="380" key="GridCell.Tab.1.right" timestamp="1664268993351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="380" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1664268993351" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1664275231348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1664275231348" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1664274628426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1664274628426" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1663894876779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1663894876779" />
+    <state x="1019" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1664253903754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1019" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1664253903754" />
+    <state x="599" y="203" key="svn.repositoryBrowser" timestamp="1664275080899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="203" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1664275080899" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/ApplicationTests.java</url>
+          <line>26</line>
+          <properties class="com.example.ApplicationTests" method="testApplicationContext">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/entity/User.java</url>
+          <line>7</line>
+          <properties field="password" class="com.example.entity.User" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
