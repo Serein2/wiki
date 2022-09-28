@@ -7,10 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="wiki知识库" />
         <module name="论坛" />
-        <module name="end" />
         <module name="end_demo1" />
+        <module name="end" />
+        <module name="wiki知识库" />
       </profile>
     </annotationProcessing>
   </component>
